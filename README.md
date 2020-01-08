@@ -14,5 +14,5 @@ Frontend-React.js
 Backend-Node.js
 
 Se encarga de enlazar la informacion alojada en MongoDB para que pueda ser mostrada en la app que tenemos en react.js.
-En este caso el api va a concentrar la informacion de conexion con la base de datos articulando los elementos mas importantes.
+En este caso el api va a concentrar la informacion de la conexion con la base de datos articulando los elementos mas importantes.
 
