@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  padding-top:36px;
+}
+
+.BuscarHotel{
+  display: flex;
+  justify-content: center;
+}
+
+.ListaHoteles{
+  display: flex; 
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 16px;
+}
+
+.ListaHoteles-item {
+  margin-bottom: 24px;
+  width: 48%;
+}
